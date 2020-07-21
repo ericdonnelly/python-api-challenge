@@ -79,8 +79,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
-
 As final considerations:
 
 * Create a new GitHub repository for this project called `API-Challenge` (note the kebab-case). **Do not add to an existing repo**
